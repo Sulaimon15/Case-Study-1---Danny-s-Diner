@@ -22,7 +22,7 @@ You can inspect the entity relationship diagram and example data below.
 
 ## Entity Relationship diagram
 
-![](entity_diagram.png)
+![](Danny's Diner.png)
 
 
 ## Business questions
